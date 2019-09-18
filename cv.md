@@ -2,9 +2,9 @@ Sergey Berezhnoy
 ============
 
 -------------------     ----------------------------
-Email                            ya_sergey@yahoo.com
-Phone                            +79180000000
-telegram                         BerezhnojSergej
+* Email:                            ya_sergey@yahoo.com
+* Phone:                            +79180000000
+* telegram                         BerezhnojSergej
 -------------------     ----------------------------
 
 
