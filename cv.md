@@ -4,7 +4,6 @@ Sergey Berezhnoy
 * Phone:                            +79180000000
 * telegram                          BerezhnojSergej
 
-
 Summary
 ----------
 Hello. My name is Sergey. I am a junior front-end developer
