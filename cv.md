@@ -62,3 +62,19 @@ actions: {
     }
   }
 ```
+
+Experience
+---------
+
+My list of projects: https://gitlab.com/skaarjz
+
+Education
+---------
+
+2009-2014 (expected)
+:   **Kuban State Technological University**: Krasnodar
+
+English
+---------
+
+Level: A2
