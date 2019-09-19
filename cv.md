@@ -67,7 +67,7 @@ My list of projects: https://gitlab.com/skaarjz
 Education
 ---------
 
-2009-2014 (expected)
+2009-2014
 :   **Kuban State Technological University**: Krasnodar
 
 English
